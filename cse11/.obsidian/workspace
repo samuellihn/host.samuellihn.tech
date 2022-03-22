@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "2c13c8fec7015975",
+    "type": "split",
+    "children": [
+      {
+        "id": "49e539c6bcf5698f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "linuxcli.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "ac4c53da0be95736",
+        "type": "leaf",
+        "state": {
+          "type": "reveal-preview-view",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c34cdf8bb71e8118",
+    "type": "split",
+    "children": [
+      {
+        "id": "b335752bc3f1bef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34484b4c1ed356fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2259230c58e9366d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "section:()",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "02815d7e98f4a2a6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310
+  },
+  "right": {
+    "id": "16ce035686d41a95",
+    "type": "split",
+    "children": [
+      {
+        "id": "56564f273e4066f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35501bd9741a3b16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linuxcli.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 444,
+    "collapsed": true
+  },
+  "active": "49e539c6bcf5698f",
+  "lastOpenFiles": [
+    "linuxcli.md",
+    "intropy/introduction.md",
+    "introcpp/introduction.md",
+    "introcpp/conditionals.md",
+    "intropy/variables.md",
+    "intropy/functions.md",
+    "intropy/functions/functions-8-recursion.png",
+    "applipy/review.md",
+    "intropy/consoleio.md",
+    "intropy/lists.md"
+  ]
+}
