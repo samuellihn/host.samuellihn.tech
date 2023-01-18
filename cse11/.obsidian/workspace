@@ -10,17 +10,9 @@
           "type": "markdown",
           "state": {
             "file": "linuxcli.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
-        }
-      },
-      {
-        "id": "ac4c53da0be95736",
-        "type": "leaf",
-        "state": {
-          "type": "reveal-preview-view",
-          "state": {}
         }
       }
     ],
@@ -65,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
